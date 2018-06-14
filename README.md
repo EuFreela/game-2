@@ -20,4 +20,4 @@ As próximas versões deste game serão as modificações necessárias ade forma
 <p> Clique com o mouse na tela para que o passaro bata nos barris desviando dos inimigos somando pontos durante a execução</p>
 
 <br><br>
-<img src="https://s10.postimg.org/fylhq76ft/game.png" width="700" height="400">
+<img src="https://s10.postimg.cc/fylhq76ft/game.png" width="700" height="400">
